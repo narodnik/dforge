@@ -28,7 +28,7 @@ a {
 h1,
 h2,
 h3 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'ChomskyRegular';
 }
 
 h2 {
@@ -120,24 +120,22 @@ pre {
  */
 
 .masthead {
-  background-image: url(../images/artemis.jpg);
+  background-image: url(../images/darkrenaissance.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  border-top: solid 1px #555;
-  border-bottom: solid 1px #555;
   padding: 20px 12px;
 }
 @media (min-width: 568px) {
   .masthead {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 100px;
+    padding-bottom: 200px;
   }
 }
 
 .masthead .container {
 }
-@media (min-width: 568px) {
+@media (min-width: 2000px) {
   .masthead .container {
     width: 568px;
     margin: 0 auto;
@@ -145,19 +143,19 @@ pre {
 }
 
 .masthead h1 {
-  font-size: 20px;
+  font-size: 200px;
   font-weight: 400;
   color: #ababab;
 }
 .masthead p {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Arial';
   font-size: 15px;
-  line-height: 1.4em;
+  line-height: 1em;
   color: #ababab;
 }
 @media (min-width: 568px) {
   .masthead h1 {
-    font-size: 38px;
+    font-size: 100px;
   }
   .masthead p {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
