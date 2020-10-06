@@ -28,9 +28,11 @@ a {
 h1 {
    font-family: 'ChomskyRegular';
    }
-h2,
+h2 {
+    font-family: 'Arial';
+}
 h3 {
-  font-family: 'Arial';
+  font-family: 'ChomskyRegular';
 }
 
 h2 {
