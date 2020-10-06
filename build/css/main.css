@@ -40,7 +40,7 @@ h2 {
 }
 @media (min-width: 568px) {
   h2 {
-    font-size: 30px;
+    font-size: 24px;
   }
 }
 h3 {
@@ -149,7 +149,7 @@ pre {
 }
 
 .masthead h1 {
-  font-size: 200px;
+  font-size: 100px;
   font-weight: 400;
   color: #ababab;
 }
