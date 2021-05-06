@@ -3,7 +3,7 @@ template = Template(open("templates/main.html").read())
 
 report_list = open('templates/rapor-eng.html').read()
 
-for page in ('about', 'archive', 'index', 'contact'):
+for page in ['index']:
     contents = open('pages/%s.html' % page).read()
     template_contents = Template(contents)
     contents = template_contents.render(
