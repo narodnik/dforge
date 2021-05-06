@@ -7,7 +7,7 @@ body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 1.4;
-  color: #ababab;
+  color: #ffffff;
   background-color: #000000;
   min-height: 100vh;
 }
@@ -163,7 +163,7 @@ pre {
 .masthead h1 {
   font-size: 100px;
   font-weight: 400;
-  color: #ababab;
+  color: #ffffff;
 }
 .masthead p {
   font-family: 'Arial';
